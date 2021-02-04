@@ -5,7 +5,7 @@ This simple docker-compose file allows you to install, run and configure a minec
 ## Prerequesite
 :warning: The LoupGarout plug-in appears to be as not maintened anymore (last update: April 2020). Accordingly, it has been designed for the **1.15.2** version of Minecraft and **have to** run on this version.
 
-You need to have a functionning version of Docker (tutorial available online: [example](https://dev.to/rohansawant/installing-docker-and-docker-compose-on-the-raspberry-pi-in-5-simple-steps-3mgl)(for Raspi, obviously))
+You need to have a functionning version of Docker (tutorial available online: [example](https://dev.to/rohansawant/installing-docker-and-docker-compose-on-the-raspberry-pi-in-5-simple-steps-3mgl) (for Raspi, obviously))
 
 ## Install
 Clone this repo.
