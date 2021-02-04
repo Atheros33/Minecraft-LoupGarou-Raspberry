@@ -3,7 +3,7 @@
 This simple docker-compose file allows you to install, run and configure a minecraft server on Raspberry Pi with the [LoupGarou plug-in](https://github.com/leomelki/LoupGarou).
 
 ## Prerequesite
-:warning: The LoupGarout plug-in appears to be as not maintened anymore (last update: April 2020). Accordingly, it has been designed for the **1.15.2** version of Minecraft and **have to** run on this version.
+:warning: The LoupGarou plug-in appears to be as not maintened anymore (last update: April 2020). Accordingly, it has been designed for the **1.15.2** version of Minecraft and **have to** run on this version.
 
 You need to have a functionning version of Docker (tutorial available online: [example](https://dev.to/rohansawant/installing-docker-and-docker-compose-on-the-raspberry-pi-in-5-simple-steps-3mgl) (for Raspi, obviously))
 
