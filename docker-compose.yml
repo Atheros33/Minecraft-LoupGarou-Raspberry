@@ -16,8 +16,7 @@ services:
       VERSION: "1.15.1"
       WORLD: "https://github.com/leomelki/LoupGarou/raw/master/maps/lg_village.zip"
       MODS: "https://github.com/dmulloy2/ProtocolLib/releases/download/4.5.1/ProtocolLib.jar,https://github.com/leomelki/LoupGarou/releases/download/1.1.0/LoupGarou.v1.1.0.jar"
-      MOTD: "I'm back bitches"
-      OPS: "Atheros33"
+      MOTD: "LG Server"
       OVERRIDE_SERVER_PROPERTIES: "true"
     tty: true
     stdin_open: true
