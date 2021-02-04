@@ -1,4 +1,4 @@
-# Minecraft_Loup_Garou_Raspi
+# Minecraft-LoupGarou-Raspi
 
 This simple docker-compose file allows you to install, run and configure a minecraft server on Raspberry Pi with the [LoupGarou plug-in](https://github.com/leomelki/LoupGarou).
 
