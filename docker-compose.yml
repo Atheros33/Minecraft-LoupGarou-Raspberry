@@ -3,11 +3,9 @@ version: '3'
 services:
   minecraft:
     image: itzg/minecraft-server:multiarch
-    container_name: "mc"
+    container_name: "minecraft"
     ports:
       - "25565:25565"
-    #volumes:
-    #  - "./data:/data"
     environment:
       MEMORY: "2G"
       EULA: "TRUE"
@@ -21,6 +19,3 @@ services:
     tty: true
     stdin_open: true
     restart: always
-
-volumes:
-  mc: {}

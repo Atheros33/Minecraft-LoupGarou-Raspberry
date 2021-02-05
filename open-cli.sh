@@ -1,3 +1,3 @@
 #!/bin/sh
 
-docker exec -i mc rcon-cli
+docker exec -i minecraft rcon-cli
